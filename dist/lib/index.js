@@ -12,6 +12,7 @@ var Bag_1 = require("./Bag");
 exports.Bag = Bag_1.default;
 var BSTree_1 = require("./BSTree");
 exports.BSTree = BSTree_1.default;
+exports.BSTreeKV = BSTree_1.BSTreeKV;
 var Dictionary_1 = require("./Dictionary");
 exports.Dictionary = Dictionary_1.default;
 var Heap_1 = require("./Heap");
